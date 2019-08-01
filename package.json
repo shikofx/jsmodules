@@ -1,0 +1,33 @@
+{
+  "name": "jsmodules",
+  "version": "1.0.0",
+  "description": "It is a ModeJS study project for me",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shikofx/jsmodules.git"
+  },
+  "keywords": [
+    "js",
+    "jsmodules",
+    "nodejs"
+  ],
+  "author": {
+    "name": "Dzmitry Parkheichuk",
+    "email": "shikofx@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shikofx/jsmodules/issues"
+  },
+  "homepage": "https://github.com/shikofx/jsmodules#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.15"
+  }
+}
