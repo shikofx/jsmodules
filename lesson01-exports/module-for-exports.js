@@ -1,9 +1,9 @@
+'use strict';
+
 let number = 10;
 let stringHello = 'Hello, World!!! It is my first js program!!!';
 
-const funTest = () => { 
-    return 20;
-}
+const funTest = () => 20;
 
 //Вариант экспорта через объект module
 module.exports = {

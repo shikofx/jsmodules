@@ -1,4 +1,4 @@
-const moduleExports = require('./module-for-exports');
+var moduleExports = require('./module-for-exports');
 
 console.log(moduleExports.stringHello);
 console.log(moduleExports.number);

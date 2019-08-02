@@ -1,1 +1,1 @@
-console.log('Hello from module2')
+console.log('Hello from module2');

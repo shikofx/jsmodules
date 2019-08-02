@@ -3,7 +3,7 @@
 var db;
 
 exports.connect = function(){
-    db = require('./db.json.js.js');
+    db = require('./db.json');
 };
 
 exports.getUsers = function(){
